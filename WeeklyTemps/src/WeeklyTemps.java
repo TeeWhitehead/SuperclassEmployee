@@ -48,5 +48,4 @@ public class WeeklyTemps {
 			System.out.println("Invalid entry.");
 		}
 	}
-
 }
